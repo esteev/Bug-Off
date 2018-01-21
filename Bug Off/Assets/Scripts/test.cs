@@ -6,7 +6,7 @@ public class test : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        int a = 5;
+        int a = 8008135;
 	}
 	
 	// Update is called once per frame
