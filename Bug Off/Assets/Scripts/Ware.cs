@@ -5,19 +5,17 @@ using UnityEngine;
 public class Ware : MonoBehaviour {
 
     public float transmitivity;
-    public float severity; //lethality
-    public float visibility; //
-    
+    public float severity; 
+    public float lethality;
 
     private float baseTransmitivity;
     private float baseSeverity;
-    private float baseVisibilty;
+    private float baseLethality;
 
 	void Start () {
 		
 	}
 	
-	// Update is called once per frame
 	void Update () {
 		
 	}
